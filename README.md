@@ -15,6 +15,8 @@ The analysis focuses on:
 - Excel
 - Power Point
 
+## Source: Kaggle
+
 ## Key Insights
 - AI-related job opportunities increased significantly after 2020
 - Automation risks differ across professions
